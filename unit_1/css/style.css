@@ -1,8 +1,8 @@
 body {
 	background-color: orange;
-
+	font-family: sans-serif;
 }
 
-h1, p {
+h1, p, ul {
 	color: blue;
 }
